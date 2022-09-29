@@ -1,3 +1,4 @@
+#Importing the os module
 import os
 #Check if the file username.txt exists.
 if os.path.exists("username.txt"):
